@@ -1,0 +1,19 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Project1\nRepo test practice\nI created a test branch\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision c2ef6763353841ccceac7a45197e01b61905cd79)
++++ b/README.md	(date 1633020890071)
+@@ -1,3 +1,8 @@
+ # Project1
++==================
+ Repo test practice
++==================
++
+ I created a test branch
++
++adsflkjasd
